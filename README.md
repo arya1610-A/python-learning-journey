@@ -1,5 +1,3 @@
-My journey of learning Python and programming.
-
 # Python Learning Journey
 
 Hi, I'm Arya.
@@ -14,3 +12,18 @@ Goals:
 - Build a startup in the future
 
 Started: June 2026
+
+## Day 1 Log
+
+Date: 24 June 2026
+
+Today I:
+- Created a GitHub account
+- Created my first repository
+- Learned what a README is
+- Made my first commit
+
+Next Goals:
+- Revise Python
+- Build a calculator
+- Learn GitHub
